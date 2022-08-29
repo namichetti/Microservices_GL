@@ -1,0 +1,11 @@
+com\userservice\controller\UserController.class
+com\userservice\UserServiceApplication.class
+com\userservice\model\Order.class
+com\userservice\security\UserSecurityConfig.class
+com\userservice\entity\User.class
+com\userservice\model\Sale.class
+com\userservice\service\UserService.class
+com\userservice\controller\ExceptionHanlderController.class
+com\userservice\repository\UserRepository.class
+com\userservice\feignclients\OrderFeignClient.class
+com\userservice\feignclients\SaleFeignClient.class
